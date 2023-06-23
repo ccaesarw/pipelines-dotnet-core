@@ -18,5 +18,5 @@ steps:
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
 - script: echo All Done!
-  displayName: 'Run a one-line script'
+  displayName: 'Run another one-line script'
 # All Done!
